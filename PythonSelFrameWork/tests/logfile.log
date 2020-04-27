@@ -1,0 +1,114 @@
+2020-04-27 20:52:41,910 :INFO :test_e2e :loading products page
+2020-04-27 20:52:41,942 :INFO :test_e2e :iphone X
+2020-04-27 20:52:41,954 :INFO :test_e2e :Samsung Note 8
+2020-04-27 20:52:41,967 :INFO :test_e2e :Nokia Edge
+2020-04-27 20:52:41,979 :INFO :test_e2e :Blackberry
+2020-04-27 20:52:41,979 :INFO :test_e2e :Item Matched
+2020-04-27 20:52:42,030 :INFO :test_e2e :Item added to cart
+2020-04-27 20:52:47,543 :INFO :test_e2e :Country selected
+2020-04-27 20:52:47,719 :INFO :test_e2e :Purchase successful with messaage ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-04-27 20:53:02,871 :INFO :test_formsubmission :profile created forVetri
+2020-04-27 20:53:03,266 :INFO :test_formsubmission :profile created forManjula
+2020-04-27 20:53:03,266 :INFO :test_formsubmission :profile created forManjula
+2020-04-27 21:05:06,438 :INFO :test_e2e :loading products page
+2020-04-27 21:05:06,466 :INFO :test_e2e :iphone X
+2020-04-27 21:05:06,487 :INFO :test_e2e :Samsung Note 8
+2020-04-27 21:05:06,503 :INFO :test_e2e :Nokia Edge
+2020-04-27 21:05:06,516 :INFO :test_e2e :Blackberry
+2020-04-27 21:05:06,516 :INFO :test_e2e :Item Matched
+2020-04-27 21:05:06,577 :INFO :test_e2e :Item added to cart
+2020-04-27 21:05:12,076 :INFO :test_e2e :Country selected
+2020-04-27 21:05:12,243 :INFO :test_e2e :Purchase successful with messaage ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-04-27 21:05:27,450 :INFO :test_formsubmission :profile created forVetri
+2020-04-27 21:05:27,899 :INFO :test_formsubmission :profile created forManjula
+2020-04-27 21:05:27,899 :INFO :test_formsubmission :profile created forManjula
+2020-04-27 21:07:50,601 :INFO :test_e2e :loading products page
+2020-04-27 21:07:50,634 :INFO :test_e2e :iphone X
+2020-04-27 21:07:50,646 :INFO :test_e2e :Samsung Note 8
+2020-04-27 21:07:50,658 :INFO :test_e2e :Nokia Edge
+2020-04-27 21:07:50,671 :INFO :test_e2e :Blackberry
+2020-04-27 21:07:50,671 :INFO :test_e2e :Item Matched
+2020-04-27 21:07:50,731 :INFO :test_e2e :Item added to cart
+2020-04-27 21:07:56,209 :INFO :test_e2e :Country selected
+2020-04-27 21:07:56,355 :INFO :test_e2e :Purchase successful with messaage ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-04-27 21:08:11,436 :INFO :test_formsubmission :profile created forVetri
+2020-04-27 21:08:11,830 :INFO :test_formsubmission :profile created forManjula
+2020-04-27 21:08:11,830 :INFO :test_formsubmission :profile created forManjula
+2020-04-27 21:14:20,886 :INFO :test_e2e :loading products page
+2020-04-27 21:14:20,911 :INFO :test_e2e :iphone X
+2020-04-27 21:14:20,927 :INFO :test_e2e :Samsung Note 8
+2020-04-27 21:14:20,940 :INFO :test_e2e :Nokia Edge
+2020-04-27 21:14:20,956 :INFO :test_e2e :Blackberry
+2020-04-27 21:14:20,956 :INFO :test_e2e :Item Matched
+2020-04-27 21:14:21,006 :INFO :test_e2e :Item added to cart
+2020-04-27 21:14:26,535 :INFO :test_e2e :Country selected
+2020-04-27 21:14:26,713 :INFO :test_e2e :Purchase successful with messaage ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-04-27 21:14:42,224 :INFO :test_formsubmission :profile created forVetri
+2020-04-27 21:14:42,625 :INFO :test_formsubmission :profile created forManjula
+2020-04-27 21:14:42,625 :INFO :test_formsubmission :profile created forManjula
+2020-04-27 21:49:21,993 :INFO :test_e2e :loading products page
+2020-04-27 21:49:22,021 :INFO :test_e2e :iphone X
+2020-04-27 21:49:22,033 :INFO :test_e2e :Samsung Note 8
+2020-04-27 21:49:22,044 :INFO :test_e2e :Nokia Edge
+2020-04-27 21:49:22,056 :INFO :test_e2e :Blackberry
+2020-04-27 21:49:22,056 :INFO :test_e2e :Item Matched
+2020-04-27 21:49:22,103 :INFO :test_e2e :Item added to cart
+2020-04-27 21:49:27,629 :INFO :test_e2e :Country selected
+2020-04-27 21:49:27,790 :INFO :test_e2e :Purchase successful with messaage ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-04-27 21:49:42,804 :INFO :test_formsubmission :profile created forVetri
+2020-04-27 21:49:43,205 :INFO :test_formsubmission :profile created forManjula
+2020-04-27 21:49:43,205 :INFO :test_formsubmission :profile created forManjula
+2020-04-27 22:11:52,378 :INFO :test_e2e :loading products page
+2020-04-27 22:11:52,412 :INFO :test_e2e :iphone X
+2020-04-27 22:11:52,425 :INFO :test_e2e :Samsung Note 8
+2020-04-27 22:11:52,438 :INFO :test_e2e :Nokia Edge
+2020-04-27 22:11:52,451 :INFO :test_e2e :Blackberry
+2020-04-27 22:11:52,451 :INFO :test_e2e :Item Matched
+2020-04-27 22:11:52,503 :INFO :test_e2e :Item added to cart
+2020-04-27 22:11:57,919 :INFO :test_e2e :Country selected
+2020-04-27 22:11:58,093 :INFO :test_e2e :Purchase successful with messaage ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-04-27 22:12:12,680 :INFO :test_formsubmission :profile created forVetri
+2020-04-27 22:12:13,078 :INFO :test_formsubmission :profile created forManjula
+2020-04-27 22:12:13,078 :INFO :test_formsubmission :profile created forManjula
+2020-04-27 23:17:12,976 :INFO :test_e2e :loading products page
+2020-04-27 23:17:13,009 :INFO :test_e2e :iphone X
+2020-04-27 23:17:13,027 :INFO :test_e2e :Samsung Note 8
+2020-04-27 23:17:13,044 :INFO :test_e2e :Nokia Edge
+2020-04-27 23:17:13,058 :INFO :test_e2e :Blackberry
+2020-04-27 23:17:13,058 :INFO :test_e2e :Item Matched
+2020-04-27 23:17:13,126 :INFO :test_e2e :Item added to cart
+2020-04-27 23:17:18,600 :INFO :test_e2e :Country selected
+2020-04-27 23:17:18,729 :INFO :test_e2e :Purchase successful with messaage ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-04-27 23:19:06,482 :INFO :test_e2e :loading products page
+2020-04-27 23:19:06,572 :INFO :test_e2e :iphone X
+2020-04-27 23:19:06,583 :INFO :test_e2e :Samsung Note 8
+2020-04-27 23:19:06,595 :INFO :test_e2e :Nokia Edge
+2020-04-27 23:19:06,607 :INFO :test_e2e :Blackberry
+2020-04-27 23:19:06,607 :INFO :test_e2e :Item Matched
+2020-04-27 23:19:06,654 :INFO :test_e2e :Item added to cart
+2020-04-27 23:19:12,075 :INFO :test_e2e :Country selected
+2020-04-27 23:19:12,228 :INFO :test_e2e :Purchase successful with messaage ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-04-27 23:21:30,975 :INFO :test_e2e :loading products page
+2020-04-27 23:21:31,005 :INFO :test_e2e :iphone X
+2020-04-27 23:21:31,017 :INFO :test_e2e :Samsung Note 8
+2020-04-27 23:21:31,029 :INFO :test_e2e :Nokia Edge
+2020-04-27 23:21:31,041 :INFO :test_e2e :Blackberry
+2020-04-27 23:21:31,041 :INFO :test_e2e :Item Matched
+2020-04-27 23:21:31,090 :INFO :test_e2e :Item added to cart
+2020-04-27 23:21:36,568 :INFO :test_e2e :Country selected
+2020-04-27 23:21:36,713 :INFO :test_e2e :Purchase successful with messaage ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-04-27 23:21:51,894 :INFO :test_formsubmission :profile created forVetrivel
+2020-04-27 23:21:52,277 :INFO :test_formsubmission :profile created forManjula
+2020-04-27 23:21:52,277 :INFO :test_formsubmission :profile created forManjula
+2020-04-27 23:21:52,608 :INFO :test_formsubmission :profile created forRose
+2020-04-27 23:21:52,608 :INFO :test_formsubmission :profile created forRose
+2020-04-27 23:21:52,608 :INFO :test_formsubmission :profile created forRose
